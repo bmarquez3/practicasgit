@@ -6,4 +6,4 @@ hola como estas tienes 1000bs.
 
 1000+1000+500=2500
 
-total:
+total:2500bs
