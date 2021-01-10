@@ -1,0 +1,15 @@
+git init - inicia git en la carpeta del proyecto
+
+git status - muestra el estado de los archivos modificados
+
+git add . - rastrea los archivos (.) para todos los archivos modificados actualmente 
+
+git commit -m - adiciona un commit (version del proyecto) con un titulo 
+
+git rm "nombre archivo" remover un archivo de staging
+
+***Configurar usuarios git***
+git config --global user.email "tu email"
+git config --global user.name "tu nombre"
+
+
