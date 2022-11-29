@@ -11,3 +11,5 @@ total:2500bs
 hola como estas
 
 actualizacion del dia de hoy
+
+terminando las clases de git 
