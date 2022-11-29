@@ -9,3 +9,5 @@ hola como estas tienes 2000bs.
 total:2500bs
 
 gatos del mes 1200bs.
+
+otro documento de git
