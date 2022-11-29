@@ -13,3 +13,5 @@ hola como estas
 actualizacion del dia de hoy
 
 terminando las clases de git 
+
+esto es fuera de los colaboradores
